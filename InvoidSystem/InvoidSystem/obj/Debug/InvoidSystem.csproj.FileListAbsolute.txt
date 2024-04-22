@@ -1,0 +1,16 @@
+C:\Users\CHHIMSOKRITH\Desktop\InvoidSystem\InvoidSystem\bin\Debug\InvoidSystem.exe.config
+C:\Users\CHHIMSOKRITH\Desktop\InvoidSystem\InvoidSystem\bin\Debug\InvoidSystem.exe
+C:\Users\CHHIMSOKRITH\Desktop\InvoidSystem\InvoidSystem\bin\Debug\InvoidSystem.pdb
+C:\Users\CHHIMSOKRITH\Desktop\InvoidSystem\InvoidSystem\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\CHHIMSOKRITH\Desktop\InvoidSystem\InvoidSystem\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\CHHIMSOKRITH\Desktop\InvoidSystem\InvoidSystem\obj\Debug\InvoidSystem.csproj.AssemblyReference.cache
+C:\Users\CHHIMSOKRITH\Desktop\InvoidSystem\InvoidSystem\obj\Debug\InvoidSystem.frm_login.resources
+C:\Users\CHHIMSOKRITH\Desktop\InvoidSystem\InvoidSystem\obj\Debug\InvoidSystem.Properties.Resources.resources
+C:\Users\CHHIMSOKRITH\Desktop\InvoidSystem\InvoidSystem\obj\Debug\InvoidSystem.csproj.GenerateResource.cache
+C:\Users\CHHIMSOKRITH\Desktop\InvoidSystem\InvoidSystem\obj\Debug\InvoidSystem.csproj.CoreCompileInputs.cache
+C:\Users\CHHIMSOKRITH\Desktop\InvoidSystem\InvoidSystem\obj\Debug\InvoidSystem.csproj.CopyComplete
+C:\Users\CHHIMSOKRITH\Desktop\InvoidSystem\InvoidSystem\obj\Debug\InvoidSystem.exe
+C:\Users\CHHIMSOKRITH\Desktop\InvoidSystem\InvoidSystem\obj\Debug\InvoidSystem.pdb
+C:\Users\CHHIMSOKRITH\Desktop\InvoidSystem\InvoidSystem\obj\Debug\InvoidSystem.frm_main.resources
+C:\Users\CHHIMSOKRITH\Desktop\InvoidSystem\InvoidSystem\obj\Debug\InvoidSystem.Product.frm_product.resources
+C:\Users\CHHIMSOKRITH\Desktop\InvoidSystem\InvoidSystem\obj\Debug\InvoidSystem.Product.frm_addproduct.resources
